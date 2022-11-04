@@ -1,0 +1,4 @@
+-This is a connect 4 game made with Python, using the idea of  a matrix with variable size ( matrix[ x ][ y ])
+-I'm currantly working on make a grafic version of this game using pygame library, fyrther updates will be posted here.
+-All my files are available to be copied for studyin proposites.
+-Have fun :)
